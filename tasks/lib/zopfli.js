@@ -2,7 +2,7 @@
 
 var fs = require('fs');
 var path = require('path');
-var zopfli = require('zopfli-node');
+var zopfli = require('node-zopfli');
 
 module.exports = function(grunt) {
 
